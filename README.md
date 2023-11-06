@@ -1,5 +1,11 @@
 # challenge-05 - Workday schedule 
-This week I had to develop some starter code and make a planner that allowd you to write things and save it to local storage 
+This week I had to develop some starter code and make a planner that allowed you to write things and save them to local storage 
+USER STORY:
+AS AN employee with a busy schedule
+I WANT to add important events to a daily planner
+SO THAT I can manage my time effectively
+
+ACCEPTANCE CRITERIA:
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -13,3 +19,5 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+Deployed application: https://duweri.github.io/challenge-05/
